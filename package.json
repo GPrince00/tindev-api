@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/GPrince00/tindev-api#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "mongoose": "^5.8.3"
   },
